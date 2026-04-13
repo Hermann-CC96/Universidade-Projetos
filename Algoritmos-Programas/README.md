@@ -9,4 +9,4 @@ Repositório dedicado ao estudo de lógica de programação, estruturas de dados
 * **Estruturas Avançadas:** Ponteiros e alocação dinâmica de memória.
 
 ## 🛠 Linguagens Utilizadas
-* `C / C++` (ou a linguagem que você usou na aula)
+* 'C / C++', 'Python', ' JavaScript' 
