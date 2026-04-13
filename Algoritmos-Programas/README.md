@@ -1,2 +1,3 @@
 # Algoritmos e Programação
-Este diretório contém os exercícios desenvolvidos durante a disciplina durante os semestres cursadas.
+Este diretório contém os exercícios e projetos desenvolvidos durante 
+os semestres cursadas.
