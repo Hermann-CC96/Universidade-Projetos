@@ -4,11 +4,8 @@
 Este projeto consiste no desenvolvimento de um Agente Inteligente voltado para o setor industrial,
 focado em manutenção preventiva. O objetivo é simular uma interface homem-máquina onde o agente 
 recebe dados de sensores ou relatos de operadores e utiliza um Modelo de Linguagem de Grande Escala (LLM)
-para fornecer soluções instantâneas e gerenciar o status de ativos industriais. O projeto aplica conceitos
-fundamentais de Processamento de Linguagem Natural (PLN), especificamente a análise semântica (atribuição 
-de significado  à estrutura das frases) e pragmática (ajuste do significado ao contexto industrial específico).
-
-O projeto aplica conceitos fundamentais de Processamento de Linguagem Natural (PLN), especificamente a 
+para fornecer soluções instantâneas e gerenciar o status de ativos industriais. 
+    O projeto aplica conceitos fundamentais de Processamento de Linguagem Natural (PLN), especificamente a 
 análise semântica (atribuição de significado à estrutura das frases) e pragmática (ajuste do significado ao 
 contexto industrial específico).
 
