@@ -36,7 +36,7 @@ na arquitetura do sistema.
 
 3. Configure sua chave de API no script principal.
 
-4. Execute o comando: python main.py
+4. Execute o comando: python Agente-ST.py
 
 ## 📚 Fundamentação Teórica (PLN)
 De acordo com Silvio do Lago Pereira, o PLN envolve diferentes níveis de análise que este agente 
