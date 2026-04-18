@@ -46,3 +46,7 @@ Sintaxe: Estruturação correta das frases para comandos do operador.
 Semântica e Pragmática: Essenciais para que o chatbot entenda que "aquecimento excessivo" no contexto 
 predador-presa seria irrelevante, mas no contexto industrial significa uma falha crítica.
 
+
+## 🚀 Link do video
+Link: https://www.loom.com/looms/videosR
+
