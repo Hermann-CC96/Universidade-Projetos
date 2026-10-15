@@ -1,0 +1,2 @@
+source C:/projetos/sistema_arquivos/esp32/build/gdbinit/symbols
+source C:/projetos/sistema_arquivos/esp32/build/gdbinit/connect
